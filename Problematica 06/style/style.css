@@ -27,8 +27,8 @@
   font-size: 17px;
   color: white;
 }
-i{
-  margin-left:50px;
+i {
+  margin-left: 50px;
 }
 .containerTitleNotice {
   margin-top: 50px;
@@ -79,7 +79,7 @@ i{
   width: 70px;
   height: 70px;
 }
-.visible{
+.visible {
   visibility: hidden;
 }
 .titleTwo {
@@ -151,11 +151,11 @@ i{
   font-style: italic;
   color: rgb(90, 86, 86);
 }
-.socialLink{
-  color:rgb(29, 99, 146);
+.socialLink {
+  color: rgb(29, 99, 146);
   text-decoration: none;
 }
-.socialLink:hover{
+.socialLink:hover {
   text-decoration-line: underline;
 }
 .conclusionText {

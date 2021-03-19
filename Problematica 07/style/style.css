@@ -1,0 +1,166 @@
+.containerMenu {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(5, 41, 98);
+}
+.sectionOneThree {
+  display: flex;
+}
+.sectionOT {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 80%;
+  position: relative;
+  left: 10%;
+}
+.securityModel {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 500%;
+  color: white;
+}
+.serchJob,
+.signIn,
+.serch,
+.theGuardian,
+.internationalEdition {
+  margin-left: 20px;
+  cursor: pointer;
+  font-size: 21px;
+}
+.line {
+  width: 1px;
+  height: 21px;
+  background-color: white;
+  margin-left: 10px;
+}
+.lineLi {
+  width: 1px;
+  height: 30px;
+  background-color: white;
+  margin-left: 10px;
+}
+.titleYellow {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: yellow;
+  font-size: 50px;
+  font-weight: bold;
+}
+.subTitleYellow {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 18px;
+}
+.containerBtn {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.btnContribute {
+  width: 100px;
+  height: 30px;
+  margin-right: 15px;
+  background-color: yellow;
+  border-radius: 15px;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.btnSubscribe {
+  width: 100px;
+  height: 30px;
+  background-color: yellow;
+  border-radius: 15px;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.sectionTwo {
+  position: relative;
+  left: 10%;
+}
+.containerList {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 60%;
+  border: 1px solid white;
+}
+li {
+  list-style: none;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+.opinion,
+.sport,
+.culture,
+.lifeStyle,
+.more {
+  margin-left: 40px;
+}
+.containerNotice {
+  position: relative;
+  width: 40%;
+  left: 29%;
+}
+blockquote {
+  display: flex;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(85, 83, 83);
+  font-size: 10px;
+}
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+}
+.linkArticle {
+  color: rgba(109, 60, 60, 0.486);
+  text-decoration: none;
+}
+.linkArticle:hover {
+  text-decoration-line: underline;
+}
+.lineNotice {
+  width: 100%;
+  height: 1px;
+  background-color: yellow;
+}
+.markText {
+  background-color: yellow;
+}
+.containerBtnNotice {
+  display: flex;
+  flex-direction: row;
+}
+.btnSupport {
+  width: 250px;
+  height: 30px;
+  margin-right: 15px;
+  background-color: yellow;
+  border-radius: 15px;
+  font-size: 17px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.btnRemind {
+  width: 200px;
+  height: 30px;
+  margin-right: 15px;
+  background-color: white;
+  border-radius: 15px;
+  font-size: 17px;
+  font-weight: bold;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.containerCards {
+  margin-top: 15px;
+}
